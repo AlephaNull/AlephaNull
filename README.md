@@ -7,13 +7,12 @@ Langauges I know:
 * Lisp
 * Shell/Bash
 
-My current project is : PassMan ( A simple password manager written in Python and SQL)
+My current project is : PassMan ( A simple password manager written in Python and SQL)   
 
-I use Arch(BTW) and Gentoo Linux 
-I use vim for programming but recently have been hacking around with emacs
+I use Arch(BTW) and Gentoo Linux   
+I use vim for programming but recently have been hacking around with Emacs  
 
-I do some amateur penetartion testing and writing hacking scripts which you could find on my repo
-
+I do some amateur penetration testing.
 Keep Compiling!
 <!--
 **HashTag-4512/HashTag-4512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
