@@ -1,4 +1,4 @@
-### Hello There 👋
+### In a hole in the gorund there lived a programmer... 👋
 
 Langauges I know:
 * C
@@ -13,7 +13,7 @@ I use Arch(BTW) and Gentoo Linux
 I use vim for programming but recently have been hacking around with Emacs  
 
 I do some amateur penetration testing.   
-Keep Compiling!
+So long and thanks for all the fish!
 <!--
 **HashTag-4512/HashTag-4512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
