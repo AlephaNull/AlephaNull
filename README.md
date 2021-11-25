@@ -1,4 +1,4 @@
-### In a hole in the gorund there lived a programmer... 👋
+### In a hole in the ground there lived a programmer... 👋
 
 Langauges I know:
 * C
