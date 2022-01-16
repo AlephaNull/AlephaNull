@@ -6,11 +6,12 @@ Langauges I know:
 * Python
 * Lisp
 * Shell/Bash
+* Java
 
-My current project is : PassMan ( A simple password manager written in Python and SQL)   
+My current project is : Website   
 
 I use Arch(BTW) and Gentoo Linux   
-I use vim for programming but recently have been hacking around with Emacs  
+I use neovim for programming but recently have been hacking around with Emacs  
 
 I do some amateur penetration testing.   
 So long and thanks for all the fish!
