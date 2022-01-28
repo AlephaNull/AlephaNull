@@ -8,8 +8,8 @@ Langauges I know:
 * Shell/Bash
 * Java
 
-🔭 I’m currently working on : Something secret
-🌱 I’m currently learning : Flutter   
+🔭 I’m currently working on : Something secret   
+🌱 I’m currently learning : Flutter     
 
 I use Arch(BTW) and Gentoo Linux   
 I use neovim for programming but recently have been hacking around with Emacs  
