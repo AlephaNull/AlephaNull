@@ -1,15 +1,17 @@
 ### In a hole in the ground there lived a programmer... 👋
 
 Langauges I know:
-* C
-* C++
+* Dart
+* JavaScript
+* CSS/SASS
+* HTML
+* VueJS
 * Python
 * Lisp
 * Shell/Bash
-* Java
 
 🔭 I’m currently working on : Something secret   
-🌱 I’m currently learning : Flutter     
+🌱 I’m currently learning : VueJS    
 
 I use Arch(BTW) and Gentoo Linux   
 I use neovim for programming but recently have been hacking around with Emacs  
