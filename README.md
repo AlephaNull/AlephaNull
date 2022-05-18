@@ -8,7 +8,7 @@ Langauges I know:
 * VueJS
 * Python
 * Lisp
-* Shell/Bash
+* Shell/Bash   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,dart,flutter,bash,sass,github,bootstrap,vue,react)](https://skillicons.dev)
 
 🔭 I’m currently working on : Something secret   
