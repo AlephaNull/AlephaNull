@@ -9,8 +9,8 @@ Started out with Python, then moved forward with Full Stack Web Dev. Sci-Fi fan,
 * 🌍  I'm based in Knowhere
 * 🖥️  See my portfolio at [AlephaNull.ml](http://alephanull.ml/)
 * ✉️  You can contact me at [alephanull7@pm.me](mailto:alephanull7@pm.me)
-* 🧠  I'm learning React/Svelte
-* ⚡  Book Nerd
+* 🧠  I'm learning Svelte
+* ⚡  Philosophy Nerd
 
 ### Skills
 
