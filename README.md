@@ -7,7 +7,7 @@ Entrepreneur | Developer | Student
 Amateur Philosopher. SciFi Nerd
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Syed](http://syed.is-really.cool)
+* 🖥️  See my portfolio at [Syed](https://thesyed.is-a.dev)
 * ✉️  You can contact me at [ay.syed@pm.me](mailto:ay.syed@pm.me)
 * 🚀  I'm currently working on [slurb](http://slurbmedia.com)
 * 🧠  I'm learning SvelteJS
