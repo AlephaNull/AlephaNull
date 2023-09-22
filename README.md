@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayaan Syed
 ==================================================================================================================================
 
-Entrepreneur | Developer | Student
+Builder | Student
 ----------------------------------
 
 Amateur Philosopher. SciFi Nerd
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Syed](https://thesyed.is-a.dev)
+* 🖥️  See my portfolio at [Syed](https://syed.js.cool)
 * ✉️  You can contact me at [ay.syed@pm.me](mailto:ay.syed@pm.me)
 * 🚀  I'm currently working on [slurb](http://slurbmedia.com)
-* 🧠  I'm learning SvelteJS
+* 🧠  I'm learning SvelteJS + GenAI
 * ⚡  I like thinking
 
 ### Skills
